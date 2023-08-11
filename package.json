@@ -1,7 +1,7 @@
 {
-  "name": "interstellar",
+  "name": "mathpractice101",
   "version": "4.5.0",
-  "description": "https://discord.gg/gointerstellar",
+  "description": "https://discord.gg/gomathpractice101",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
